@@ -7,5 +7,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kejaaz alt=kejaaz /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kejaaz&show_icons=true&include_all_commits=true)](https://github.com/kejaaz/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
