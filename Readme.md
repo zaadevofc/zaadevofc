@@ -7,5 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kejaaz alt=kejaaz /> </p>
 
 ![Kejaaz GitHub stats](https://github-readme-stats.vercel.app/api?username=kejaaz&show_icons=true&theme=radical)
+[![Kejaaz stats](https://github-readme-stats.vercel.app/api/wakatime?username=kejaaz)]
+
 
 
