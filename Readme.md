@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Kejaa</h1>
 <h3 align="center">only attack kid who just like programming, not her 😶</h3>
+<h3 align="center">akun yang lama kena hack 😐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaadevofc&label=Profile%20views&color=0e75b6&style=flat" alt="zaadevofc" /> </p>
 
