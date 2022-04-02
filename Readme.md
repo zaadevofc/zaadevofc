@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I am Kejaa</h1>
-<h3 align="center">only attack kid who just like programming, not her!!</h3>
-<h3 align="center">My firts account has hacked 😐</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaadevofc&label=Profile%20views&color=0e75b6&style=flat" alt="zaadevofc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaadevofc" alt="zaadevofc" /></a> </p>
