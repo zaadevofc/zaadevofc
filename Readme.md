@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zaadev.xyz](https://zaadev.xyz)
 
-- 💬 Ask me about **Javascript, NodeJS, TailwindCSS, and others**
+- 💬 Ask me about **Javascript, NodeJS, TailwindCSS, ReactJS, Database, and others**
 
 - 📫 How to reach me **zaadevofc@gmail.com**
 
