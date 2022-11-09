@@ -24,7 +24,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zaadevofc&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zaadevofc&icon=5&color=4)](https://bio.zaadevofc.xyz)
 
   ## 💰 You can help me by Donating
 
