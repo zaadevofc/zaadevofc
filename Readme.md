@@ -66,12 +66,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zaadevofc/zaadevofc/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zaadevofc.zaadevofc&left_color=antiquewhite&right_color=aliceblue"  />
+  <img src="https://profile-counter.glitch.me/zaadevofc/count.svg?left_color=antiquewhite&right_color=aliceblue"  />
 </div>
 
 ###
