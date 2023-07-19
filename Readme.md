@@ -70,10 +70,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zaadevofc/count.svg?left_color=antiquewhite&right_color=aliceblue"  />
-</div>
-
 ###
 
 <div align="center">
